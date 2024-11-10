@@ -1,5 +1,11 @@
 ## Versions
 
+* 2.12: weather applet touch-up.
+* 2.11: increase font size, small changes to menu appearance, calendar, panel-lauchers...
+* 2.10: fixed a display bug in workspace names.
+* 2.9: fixed two small bugs (in menu and when restarting Cinnamon) and modifications to calendar/notifications and Plank theme.
+* 2.8: new wallpaper, add of Plank's theme and minor calendar touch-up + panel.
+* 2.7: increase virtual keyboard font.
 * 2.6: color for pointer location with Ctrl (system settings>mouse) and README update (conky).
 * 2.5: modification of the calendar (Cinnamon 5.2) and notifications.
 * 2.4: better visibility of non-work days in calendar.
